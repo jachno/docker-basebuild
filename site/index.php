@@ -1,0 +1,3 @@
+dave
+
+<?php phpinfo();?>
