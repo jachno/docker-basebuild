@@ -25,7 +25,7 @@ mysql:
   volumes_from:
     - data
   environment:
-    MYSQL_ROOT_PASSWORD: Shopdirect 
+    MYSQL_ROOT_PASSWORD: Shopdirect1 
 
 data:
   image: busybox
