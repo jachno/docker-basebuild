@@ -39,3 +39,4 @@ data:
     # virtual hosts
     - ./site:/var/www/test
   command: /bin/true
+  command: touch ./sites/jamie.log
